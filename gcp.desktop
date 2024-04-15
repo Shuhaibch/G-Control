@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=G_CONTROL
+Comment=This is a description of my Python script
+Exec=/usr/bin/python3 /home/home/Desktop/Project_G_control/gui.py
+Icon=myapp.png
+Terminal=false
+Type=Application
+
